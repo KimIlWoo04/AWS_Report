@@ -10,7 +10,7 @@ bookCollapseSection: true
 # Nhật Kí Công Việc
 
 - **Tuần 1**: [Làm quen với công ty và các dịch vụ AWS](week-1)
-- **Tuần 2**:
+- **Tuần 2**: [..](week-2)
 - **Tuần 3**:
 - **Tuần 4**:
 - **Tuần 5**:
