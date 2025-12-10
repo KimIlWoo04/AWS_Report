@@ -1,0 +1,181 @@
+/* Custom styling overrides for Hugo Book theme */
+
+// Dark theme color for navigation
+$nav-dark-bg: #232f3e;        // Dark background for navigation
+$nav-text-light: #ffffff;     // White text for menu items
+
+/* ========================================
+   NAVIGATION MENU - Dark theme styling
+   ======================================== */
+
+/* Navigation menu background and fixed positioning */
+.book-menu {
+  background-color: $nav-dark-bg;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+}
+
+/* Menu navigation container */
+.book-menu nav, .book-menu-content {
+  background-color: $nav-dark-bg;
+}
+
+/* Menu items - white text on dark background */
+.book-menu a,
+.book-menu label {
+  color: $nav-text-light;
+}
+
+.book-menu a {
+  padding: 10px;
+}
+
+.book-menu .book-menu-content {
+  padding: 5px;
+}
+
+/* Override padding for large screens */
+@media screen and (min-width: $container-max-width) {
+  .book-menu .book-menu-content {
+    padding: 5px;
+  }
+}
+
+/* Make icons white in the dark navigation menu */
+.book-menu .book-icon {
+  filter: invert(100%) brightness(100%);
+}
+
+/* Active/selected menu heading - white background with black text for readability */
+.book-menu a.active,
+.book-menu li.active > a {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+/* Prevent styling changes during click action (mousedown/mouseup) */
+.book-menu a:active {
+  background-color: transparent !important;
+  color: $nav-text-light !important;
+}
+
+/* Remove focus outline on sidebar links */
+.book-menu a:focus-visible {
+  outline: none !important;
+}
+
+/* Grey hover effect for unselected items only */
+.book-menu li:not(.active) > a:hover {
+  color: #999999 !important;
+  opacity: 1 !important;
+}
+
+/* Keep selected item styling unchanged on hover */
+.book-menu nav ul a.active:hover,
+.book-menu nav ul li.active > a:hover,
+.book-menu nav ul li.active > a[href]:hover {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  opacity: 1 !important;
+}
+
+/* Hide section name in search result */
+#book-search-results small {
+  display: none;
+}
+
+/* ========================================
+   BRAND/LOGO - Center alignment and size
+   ======================================== */
+
+.book-brand {
+  text-align: center;
+
+  a {
+    justify-content: center;
+  }
+
+  img {
+    width: 60px;
+    height: auto;
+  }
+}
+
+/* ========================================
+   MAIN CONTENT - Adjust for fixed sidebar
+   ======================================== */
+
+/* Add left margin to prevent content from sliding under fixed sidebar */
+.container {
+  margin-left: $menu-width;
+}
+
+/* Reset margin on mobile when sidebar is hidden */
+@media screen and (max-width: $mobile-breakpoint) {
+  .container {
+    margin-left: 0;
+  }
+
+  /* Override theme's mobile background color for menu-content */
+  .book-menu .book-menu-content {
+    background-color: $nav-dark-bg !important;
+  }
+}
+
+/* ========================================
+   PAGE BODY STYLING
+   ======================================== */
+
+/* Main title */
+.book-page h1:first-of-type {
+  text-align: center;
+  font-size: 3em;
+  color: #748cab;
+  font-weight: 300;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+}
+
+/* Section heading */
+.book-page h2 {
+  color: #748cab;
+  font-size: 2em;
+  font-weight: 400;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* List styling */
+.book-page ul {
+  list-style: none;
+  padding-left: 2rem;
+  margin-top: 1.5rem;
+}
+
+.book-page ul li {
+  margin-bottom: 1.2rem;
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+/* Page body font size */
+p, li, td, th {
+  font-size: 14px;
+}
+
+/* Padding on main body */
+.book-page {
+  padding: 30px 50px;
+}
+
+/* Center align images in the main body */
+article img {
+  display: block;
+  margin: auto;
+}

@@ -1,0 +1,34 @@
+baseURL = 'https://jacksld.github.io/workshop-phu'
+languageCode = 'en-us'
+title = 'Internship Report'
+theme = 'book'
+
+# Multi-language configuration
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content'
+  weight = 1
+
+[languages.vi]
+  languageName = 'Tiếng Việt'
+  contentDir = 'content.vi'
+  weight = 2
+  title = 'Báo Cáo Thực Tập'
+
+[params]
+    BookToC = false
+    # Enable language selector dropdown
+    BookTranslatedOnly = false
+    # AWS logo in the sidebar header
+    BookLogo = 'images/aws-logo.svg'
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
