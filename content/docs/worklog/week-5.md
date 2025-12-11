@@ -8,8 +8,7 @@ draft: false
 
 ## Objectives
 
-- Getting started with serverless computing and AWS Lambda
-- Learn Amazon API Gateway
+- Explore and getting started with AWS AppSync and Bedrock
 
 
 

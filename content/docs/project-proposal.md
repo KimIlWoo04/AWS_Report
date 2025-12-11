@@ -26,7 +26,7 @@ Key benefits include rapid itinerary generation that saves hours of manual resea
 ### 3. Solution Architecture
 The platform employs a serverless AWS architecture to deliver an AI-powered travel itinerary generation system. User requests flow through AWS Amplify's hosted web interface, where inputs are processed via a GraphQL API managed by AWS AppSync. Backend logic is handled by AWS Lambda functions, which interact with Amazon Bedrock to generate personalized itineraries using the Claude Haiku foundation model. User authentication and access control are managed through Amplify Auth with Amazon Cognito integration. The architecture is detailed below:
 
-![GenAI Travel Planner Architecture](/AWS_Report/images/Project_Architecture.png)
+![GenAI Travel Planner Architecture Image](/AWS_Report/images/project-architecture.png)
 
 
 ### AWS Services Used
