@@ -20,8 +20,10 @@ draft: false
 
 ## Week 6 Achievements
 
-- Configured AppSync GraphQL schema and tested query/mutation operations
-- Accessed Amazon Bedrock console
+- Finalized project idea for AIpowered travel itinerary generator application
+- Designed serverless architecture using Amplify, AppSync, Lambda, and Bedrock
+- Completed project proposal with detailed implementation roadmap
+
 
 
 
