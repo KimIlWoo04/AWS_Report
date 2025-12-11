@@ -2,12 +2,13 @@
 title: "Week 2 Worklog"
 date: 2025-01-07
 draft: false
+weight: 3
 ---
 
 # Week 2 Worklog
 
 ## Objectives
-
+order:
 -  Install Ubuntu on working machine
 - Create AWS free tier account
 - Set up AWS management console and AWS CLI

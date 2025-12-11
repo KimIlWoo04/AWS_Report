@@ -2,7 +2,7 @@
 title: "Week 11 Worklog"
 date: 2025-01-07
 draft: false
-weight: 3
+weight: 12
 ---
 
 # Week 11 Worklog
@@ -20,8 +20,6 @@ weight: 3
 
 ## Week 11 Achievements
 
-- Developed a functional user interface allowing authenticated users to input trip details and submit requests.
-- Completed the core functionality of the full-stack, serverless application.
 
 
 

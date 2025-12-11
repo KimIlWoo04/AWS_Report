@@ -2,6 +2,7 @@
 title: "Week 9 Worklog"
 date: 2025-01-07
 draft: false
+weight: 10
 ---
 
 # Week 9 Worklog

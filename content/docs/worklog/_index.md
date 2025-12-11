@@ -15,7 +15,8 @@ bookCollapseSection: true
 - **Week 4**: [Getting Started with AWS Serverless: Lambda and API Gateway](week-4)
 - **Week 5**: [Getting Started with AWS AppSync and Bedrock](week-5)
 - **Week 6**: [Project Ideation and Proposal Development: From Brainstorming to Blueprint](week-6)
-- **Week 7**:
-- **Week 8**:
-- **Week 9**:
-- **Week 10**:
+- **Week 7**: [Project Foundation & Initial Deployment](week-7)
+- **Week 8**: [Authentication & Core API Setup](week-8)
+- **Week 9**: [AI Backend Integration](week-9)
+- **Week 10**: [Frontend Development & Full Integration](week-10)
+- **Week 11**: [Testing & Bug Resolution](week-11)
