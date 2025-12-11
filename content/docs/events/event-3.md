@@ -30,6 +30,6 @@ This workshop delivers an extensive, end-to-end overview of the DevOps methodolo
 - **Strategy for Monitoring and Reliability**: Achieve full-stack observability—establish monitoring and tracing to foresee problems, resolve bottlenecks, and ensure reliable applications.  
 
 #### Some event photos
-![Eventpicture](AWS_Report/images/AWS-Cloud-Mastery-Series-2.png) 
+![Eventpicture](/AWS_Report/images/AWS-Cloud-Mastery-Series-2.png) 
 
 > Overall, the event not only provided technical knowledge but also helped me Master the tools and practices to release better software, faster and more reliably, using the AWS DevOps suite.

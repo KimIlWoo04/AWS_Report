@@ -29,6 +29,6 @@ This workshop offers a practical, foundational introduction to AWS's AI, ML, and
 - **Awareness of the AI/ML Ecosystem**: Understand the regional AI context in Vietnam and utilize AWS to develop efficient, responsible innovations. 
 
 #### Some event photos
-![Eventpicture](AWS_Report/images/AWS-Cloud-Mastery-Series-1.png) 
+![Eventpicture](/AWS_Report/images/AWS-Cloud-Mastery-Series-1.png) 
 
 > Overall, the event not only provided technical knowledge but also helped me on how to build intelligent and generative AI applications with AWS's core services.
