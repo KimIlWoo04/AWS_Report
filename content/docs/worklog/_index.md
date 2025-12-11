@@ -10,11 +10,11 @@ bookCollapseSection: true
 # Worklog
 
 - **Week 1**: [Get acquainted with company and AWS services](week-1)
-- **Week 2**: [...](week-2)
-- **Week 3**:
-- **Week 4**:
-- **Week 5**:
-- **Week 6**:
+- **Week 2**: [Complete Setup Guide: Ubuntu Installation and AWS Free Tier Configuration](week-2)
+- **Week 3**: [AWS Core Services: Budgets, IAM, and Amplify Fundamentals](week-3)
+- **Week 4**: [Getting Started with AWS Serverless: Lambda and API Gateway](week-4)
+- **Week 5**: [Getting Started with AWS AppSync and Bedrock](week-5)
+- **Week 6**: [Project Ideation and Proposal Development: From Brainstorming to Blueprint](week-6)
 - **Week 7**:
 - **Week 8**:
 - **Week 9**:

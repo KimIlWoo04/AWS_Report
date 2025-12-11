@@ -8,11 +8,12 @@ draft: false
 
 ## Student Information
 
-- **Full Name:** Nguyen Van A
-- **Phone Number**: 0989888999
-- **University:** Ho Chi Minh City University of Technology and Education
+- **Full Name:** Kim IL Woo
+- **Phone Number:** 0911702278
+- **Email:** kimphapminh@gmail.com
+- **University:** University of Greenwich
 - **Major:** Information Technology
-- **Class:** AWS082025
+- **Class:** COS1101
 - **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 - **Internship Position:** FCJ Cloud Intern
 - **Internship Duration:**
