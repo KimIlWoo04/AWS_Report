@@ -9,7 +9,8 @@ draft: false
 ## Thông Tin Sinh Viên
 
 - **Họ và Tên:** Kim IL Woo
-- **Số Điện Thoại**: 0911702278
+- **Số Điện Thoại:** 0911702278
+- **Email:** kimphapminh@gmail.com
 - **Trường:** Trường Đại học Greenwich
 - **Chuyên Ngành:** Công nghệ Thông tin
 - **Lớp:** COS1101
