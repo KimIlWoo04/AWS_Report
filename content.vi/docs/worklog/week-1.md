@@ -2,6 +2,7 @@
 title: "Nhật Kí Công Việc Tuần 1"
 date: 2025-01-07
 draft: false
+weight: 2
 ---
 
 # Nhật Kí Công Việc Tuần 1
