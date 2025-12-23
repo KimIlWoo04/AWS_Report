@@ -19,4 +19,5 @@ bookCollapseSection: true
 - **Tuần 8**: [Thiết Lập Xác Thực & API Cốt Lõi](week-8)
 - **Tuần 9**: [Tích Hợp Backend AI](week-9)
 - **Tuần 10**: [Phát Triển Frontend & Tích Hợp Đầy Đủ](week-10)
-- **Tuần 11**: [Kiểm Thử & Xử Lý Lỗi](week-11)
+- **Tuần 11**: [Hoàn thiện các thao tác CRUD của ứng dụng](week-11)
+- **Tuần 12**: [Kiểm Thử & Xử Lý Lỗi](week-12)

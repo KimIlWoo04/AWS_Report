@@ -19,4 +19,5 @@ bookCollapseSection: true
 - **Week 8**: [Authentication & Core API Setup](week-8)
 - **Week 9**: [AI Backend Integration](week-9)
 - **Week 10**: [Frontend Development & Full Integration](week-10)
-- **Week 11**: [Testing & Bug Resolution](week-11)
+- **Week 11**: [Complete CRUD operations of application](week-11)
+- **Week 12**: [Testing & Bug Resolution](week-12)

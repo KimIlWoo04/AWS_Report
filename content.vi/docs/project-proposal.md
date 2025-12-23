@@ -61,13 +61,13 @@ Nền tảng vận hành dựa trên một kiến trúc AWS không máy chủ đ
 
 ### 6. Ước tính ngân sách  
 ### Chi phí hạ tầng  
-- Amazon Bedrock: 2.10$/tháng
-- AWS Lambda: 0$/tháng
-- AWS Amplify: 0.27$/tháng
+- AAmazon Bedrock: 15.4$/tháng
+- AWS Amplify: 0.56$/tháng
 - AWS AppSync: 0.11$/tháng
-- Amazon Cognito: 0.25$/tháng
+- Amazon Cognito: 0.02$/tháng
+- Amazon DynamoDB: 0.03$/tháng
 
-Tổng cộng: 2.73$/tháng | 32.76$/năm 
+Tổng: 16.12$/tháng
 
 
 ### 7. Đánh giá rủi ro  

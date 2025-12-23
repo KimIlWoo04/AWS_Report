@@ -17,9 +17,10 @@ The Generative AI Travel Planner is a serverless web application designed to hel
 ### The Problem?
 Planning a multi-day trip requires significant time and effort to research destinations, coordinate activities, and create a cohesive itinerary. Travelers often spend hours browsing multiple websites, blogs, and reviews to piece together daily plans that match their interests and available time. Travel agencies and tourism professionals face similar challenges when creating customized itineraries for clients, leading to repetitive manual work. There is a need for an intelligent, automated solution that can generate personalized travel plans quickly while maintaining quality and relevance to user preferences.
 
-### The Solution and Benefits
+### The Solution
 The platform leverages AWS Amplify to provide a fully serverless web application with continuous deployment capabilities. User requests are processed through a GraphQL API built with AWS AppSync, which communicates with AWS Lambda functions for backend logic. Amazon Bedrock with the Claude Haiku foundation model generates intelligent, context-aware itineraries based on user inputs. Amplify Auth manages user authentication and secure access to the application. The solution offers a simple HTML-based interface where users submit their destination, trip duration, and interests, then receive comprehensive day-by-day itineraries with activities, timing, and descriptions.
 
+### The Benefits
 Key benefits include rapid itinerary generation that saves hours of manual research, personalized recommendations tailored to individual preferences, and a scalable architecture that can handle multiple concurrent users. The serverless approach ensures cost efficiency through pay-per-use pricing while demonstrating practical integration of generative AI with modern AWS services. The platform can be extended for travel agencies, tourism businesses, or personal trip planning applications.
 
 
@@ -49,7 +50,7 @@ The platform employs a serverless AWS architecture to deliver an AI-powered trav
 - **API and Data Management**: AWS AppSync configuration for GraphQL API schema definition, resolvers, and data sources. Understanding of GraphQL operations to connect frontend requests with backend functions.
 - **Authentication**: Amplify Auth setup with Amazon Cognito for user authentication, enabling secure registration, login, and session management with protected API endpoints.
 - **AI Integration**: Practical knowledge of Amazon Bedrock API for model invocation, prompt engineering for travel itinerary generation, and response handling. Understanding of Claude Haiku model capabilities and constraints.
-Deployment: AWS Amplify configuration for continuous deployment, environment management, and web application hosting.
+- **Deployment**: AWS Amplify configuration for continuous deployment, environment management, and web application hosting.
 
 ### 5. Timeline & Milestones
 **Project Timeline**
@@ -66,14 +67,14 @@ Deployment: AWS Amplify configuration for continuous deployment, environment man
 
 ### Infrastructure Costs
 - AWS Services:
-    - Amazon Bedrock: 2.10$/month
-    - AWS Lambda: 0$/month
-    - AWS Amplify: 0.27$/month
-    - AWS Appsync: 0.11$/month
-    - Amazon Cognito: 0.25$/month
+    - Amazon Bedrock: 15.4$/month
+    - AWS Amplify: 0.56$/month
+    - AWS AppSync: 0.11$/month
+    - Amazon Cognito: 0.02$/month
+    - Amazon DynamoDB: 0.03$/month
 
 
-Total: 2.73$/month, 32.76$/month
+Total: 16.12$/month
 
 
 ### 7. Risk Assessment
