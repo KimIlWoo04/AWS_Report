@@ -1,11 +1,11 @@
 ---
-title: "Nhật Kí Công Việc Tuần 10"
+title: "Nhật Kí Công Việc Tuần 12"
 date: 2025-01-07
 draft: false
-weight: 11
+weight: 13
 ---
 
-# Nhật Kí Công Việc Tuần 10
+# Nhật Kí Công Việc Tuần 12
 
 ## Mục tiêu
 
