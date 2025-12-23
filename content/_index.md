@@ -13,9 +13,8 @@ draft: false
 - **Email:** kimphapminh@gmail.com
 - **University:** University of Greenwich
 - **Major:** Information Technology
-- **Class:** COS1101
 - **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 - **Internship Position:** FCJ Cloud Intern
-- **Internship Duration:**
+- **Internship Duration:** From 29/09/2025 to 26/12/2025
 
 ![Placeholder image](/AWS_Report/images/avatar.png)

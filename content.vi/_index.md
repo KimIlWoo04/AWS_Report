@@ -13,9 +13,8 @@ draft: false
 - **Email:** kimphapminh@gmail.com
 - **Trường:** Trường Đại học Greenwich
 - **Chuyên Ngành:** Công nghệ Thông tin
-- **Lớp:** COS1101
 - **Công Ty Thực Tập:** Công ty TNHH Amazon Web Services Việt Nam
 - **Vị Trí Thực Tập:** FCJ Cloud Intern
-- **Thời Gian Thực Tập:**
+- **Thời Gian Thực Tập:** Từ ngày 29/09/2025 đến ngày 26/12/2025
 
 ![Ảnh đại diện](/AWS_Report/images/avatar.png)
